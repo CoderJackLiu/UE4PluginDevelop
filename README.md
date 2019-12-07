@@ -3,11 +3,12 @@ Create my style Plugin!
 
 In this project I will create a plugin for editor of some slate applications!
 
-However ,it`s a not very completely thoughts!
+However ,it`s a not very completely thought!
 
 The plugin Development will follow the following steps:
 
 1st plugin:
+
 1.Create a floating window with the Editor tool bar button clicked.
 
 2.The window display some parameters which are reflection of an uobject and a Structure.
